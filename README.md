@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am Vaibhav! 
 
-I am a recent graduate from the M.S. Applied Data Science program at Carnegie Mellon University. I am passionate about deploying mixed methods research methodologies, adapted for the big data and AI age, to study sociological phenomena. Prior to my time at CMU, I earned my B.A. in sociology at the University of Virginia, with minors in data science and French. I have core interests in immigration and second-generation immigrants Specifically, understanding their power in shaping the landscape of the Occident.
+I am a recent graduate from the M.S. Applied Data Science program at Carnegie Mellon University. I am passionate about deploying mixed methods research methodologies, adapted for the big data and AI age, to study sociological phenomena. Prior to my time at CMU, I earned my B.A. in sociology at the University of Virginia, with minors in data science and French. I have core interests in migration trends and second-generation immigrants. Specifically, understanding the power they wield in shaping the landscape of the Occident.
 
 - 🌱 I am currently working on developing an AI-assisted interview coding product. The goal is to supplement traditional qualitative research tools with defensible, sociology‑grade audit trails, built for fast‑paced industry research. The intended consumer ranges from boutique strategy/insights consultancies and in-house UX or customer-insights teams to social-impact or policy research organizations that run community interviews and must document their process carefully.
 - 💬 Ask me about mixed methods research, statistical machine learning, how to interview, and how to navigate the 2026 job market as a recent graduate.
