@@ -21,4 +21,4 @@ I am a recent graduate from the M.S. Applied Data Science program at Carnegie Me
 
 - 🌱 I am currently working on developing an AI-assisted interview coding product. The goal is to supplement traditional qualitative research tools with defensible, sociology‑grade audit trails, built for fast‑paced industry research. The intended consumer ranges from boutique strategy/insights consultancies and in-house UX or customer-insights teams to social-impact or policy research organizations that run community interviews and must document their process carefully.
 - 💬 Ask me about mixed methods research, statistical machine learning, how to interview, and how to navigate the 2026 job market as a recent graduate.
-- ⚡ Fun fact: In the summer of 2025, I traveled across the United States via Amtrak. The three-week trip entailed stops in 10 cities across 7 states. Check out my Medium to read about how I made it happen: https://medium.com/@vaibhavjha06
+- ⚡ Fun fact: Last year, I traveled across the United States via Amtrak. The three-week trip entailed stops in 10 cities across 7 states. Check out my Medium to read about how I made it happen: https://medium.com/@vaibhavjha06
